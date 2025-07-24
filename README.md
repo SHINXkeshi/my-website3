@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title> Seb's Site </title>
+  <h> Seb's Site </h>
 </head>
 <body>
   <h1>Hey MJ, MY QUEEN 😳</h1>
